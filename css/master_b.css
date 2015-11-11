@@ -1,0 +1,62 @@
+#u1327
+{
+	border-color: #000000;
+	opacity: 0.74;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=74)";
+	filter: alpha(opacity=74);
+	position: relative;
+	background: #FFFFFF url("../images/coffee5.jpg") no-repeat center center;
+	background-size: cover !important;
+}
+
+#u1433-4
+{
+	border-color: #000000;
+	background-color: transparent;
+	-moz-border-radius: 10px;
+	-webkit-border-radius: 10px;
+	-khtml-border-radius: 10px;
+	border-radius: 10px;
+	text-align: center;
+	line-height: 29px;
+	color: #FFFFFF;
+	font-size: 24px;
+	font-family: Palatino, Palatino Linotype, Georgia, Times, Times New Roman, serif;
+	font-weight: bold;
+	position: relative;
+}
+
+.MenuItem /* unifiedNavBar */
+{
+	cursor: pointer;
+}
+
+#u1328
+{
+	border-color: #000000;
+	position: fixed;
+	background: #FFFFFF url("../images/hipsterlogogenerator_1445066720403.jpg") no-repeat center top;
+	background-size: contain !important;
+}
+
+#menuu1439
+{
+	position: fixed;
+}
+
+#menuu1332,#u1430,#u1431,#u1440,#u1443
+{
+	position: relative;
+}
+
+#u1446-3
+{
+	text-align: center;
+	line-height: 24px;
+	color: #FFFFFF;
+	font-size: 20px;
+	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
+	font-weight: bold;
+	position: relative;
+}
+

@@ -1,0 +1,88 @@
+<manifest alg="2" build="314" opt="false" iceEnabled="true">
+  <folder name="css">
+    <file name="site_global.css" crc="417434784"/>
+    <file name="master_b.css" crc="32074667" ref="programming:university:master:web-design:sms"/>
+    <file name="master_a.css" crc="4216617385" ref="c.v:project:contact:index"/>
+    <file name="programming.css" crc="4066286078" ref="programming"/>
+    <file name="university.css" crc="4066286078" ref="university"/>
+    <file name="c_v.css" crc="292096492" ref="c.v"/>
+    <file name="master.css" crc="4066286078" ref="master"/>
+    <file name="web-design.css" crc="2532711" ref="web-design"/>
+    <file name="project.css" crc="4035135660" ref="project"/>
+    <file name="sms.css" crc="4066286078" ref="sms"/>
+    <file name="contact.css" crc="4022618455" ref="contact"/>
+    <file name="index.css" crc="366000534" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:project:web-design:programming:c.v:university:master:sms:contact"/>
+    <file name="museutils.js" crc="3865766194" ref="index:project:web-design:programming:c.v:university:master:sms:contact"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="291134478" ref="index:web-design"/>
+    <file name="pie.js" crc="3827607177" ref="index:project:web-design"/>
+    <file name="jquery.musemenu.js" crc="3788803530" ref="index:project:web-design:programming:c.v:university:master:sms:contact"/>
+    <file name="jquery.scrolleffects.js" crc="3937082470" ref="index:project:web-design:programming:c.v:university:master:sms:contact"/>
+    <file name="jquery.tobrowserwidth.js" crc="3842421675" ref="index:project:web-design:programming:c.v:university:master:sms:contact"/>
+    <file name="jquery.watch.js" crc="4068933136" ref="index:project:web-design:programming:c.v:university:master:sms:contact"/>
+    <file name="webpro.js" crc="3903299128" ref="web-design:c.v:contact"/>
+    <file name="musewpslideshow.js" crc="138381373" ref="web-design"/>
+    <file name="jquery.museoverlay.js" crc="4250894771" ref="web-design"/>
+    <file name="touchswipe.js" crc="4156838003" ref="web-design"/>
+    <file name="musewpdisclosure.js" crc="4285748861" ref="c.v"/>
+    <file name="form_check.php" crc="4257733307" ref="contact"/>
+    <file name="form_throttle.php" crc="3966014863" ref="contact"/>
+    <file name="form-u1100.php" crc="4252769397" ref="contact"/>
+  </folder>
+  <folder name="images">
+    <file name="coffee2.jpg" crc="313218996" ref="index"/>
+    <file name="hipsterlogogenerator_1445066720403.jpg" crc="81256294" ref="index:web-design"/>
+    <file name="11760248_10206080885414407_212062153555458093_n-u769-fr.jpg" crc="304605514" ref="index"/>
+    <file name="11888118_10206373132120392_7915036497694815517_n-u777-fr.jpg" crc="153916529" ref="index"/>
+    <file name="11263122_10205649012297849_7709566929341026533_n-u778-fr.jpg" crc="4002997597" ref="index"/>
+    <file name="11111042_10205653928420749_3072644061591006807_n-u931-fr.jpg" crc="3949422520" ref="project"/>
+    <file name="11183449_10205477150841420_7413498810500022874_n-u950-fr.jpg" crc="212961057" ref="project"/>
+    <file name="coffee5.jpg" crc="3836834471" ref="web-design"/>
+    <file name="coffee2635x423.jpg" crc="4066763793" ref="web-design"/>
+    <file name="blank.gif" crc="4208392903" ref="web-design"/>
+    <file name="coffee5635x423.jpg" crc="89734308" ref="web-design"/>
+    <file name="coffee6584x459.jpg" crc="61616428" ref="web-design"/>
+    <file name="coffee9635x423.jpg" crc="465099367" ref="web-design"/>
+    <file name="13.jpg" crc="4273073001" ref="web-design"/>
+    <file name="coffee1.jpg" crc="329623064" ref="web-design"/>
+    <file name="coffee3.jpg" crc="4247052900" ref="web-design"/>
+    <file name="coffee4.jpg" crc="4198725259" ref="web-design"/>
+    <file name="coffee7.jpg" crc="64113424" ref="web-design"/>
+    <file name="coffee8.jpg" crc="4057930058" ref="web-design"/>
+    <file name="coffee10.jpg" crc="503033902" ref="web-design"/>
+    <file name="coffee11.jpg" crc="3858474843" ref="web-design"/>
+    <file name="coffee12.jpg" crc="4235331837" ref="web-design"/>
+    <file name="coffee268x45.jpg" crc="4104538296" ref="web-design"/>
+    <file name="coffee568x45.jpg" crc="3890267445" ref="web-design"/>
+    <file name="coffee660x48.jpg" crc="215032865" ref="web-design"/>
+    <file name="coffee968x45.jpg" crc="3851492156" ref="web-design"/>
+    <file name="1365x45.jpg" crc="199903569" ref="web-design"/>
+    <file name="coffee168x45.jpg" crc="3946976632" ref="web-design"/>
+    <file name="coffee368x45.jpg" crc="4114102343" ref="web-design"/>
+    <file name="coffee468x45.jpg" crc="4289882070" ref="web-design"/>
+    <file name="coffee768x45.jpg" crc="4223592559" ref="web-design"/>
+    <file name="coffee868x45.jpg" crc="3955651560" ref="web-design"/>
+    <file name="coffee1067x45.jpg" crc="15105278" ref="web-design"/>
+    <file name="coffee1168x45.jpg" crc="3830935332" ref="web-design"/>
+    <file name="coffee1268x45.jpg" crc="3987964012" ref="web-design"/>
+    <file name="loading.gif" crc="3815509949" ref="web-design"/>
+    <file name="coffee9.jpg" crc="327825168" ref="c.v"/>
+    <file name="coffee6.jpg" crc="3930813815" ref="c.v"/>
+    <file name="smallflower.jpg" crc="184385794" ref="c.v"/>
+    <file name="u1115-17.png" crc="4156177731" ref="contact"/>
+    <file name="u1115-17-r.png" crc="344079730" ref="contact"/>
+    <file name="u1115-17-m.png" crc="103022927" ref="contact"/>
+    <file name="u1115-17-fs.png" crc="18007335" ref="contact"/>
+  </folder>
+  <file name="index.html" crc="361472060" mt="1447231757631" redirect="true"/>
+  <file name="project.html" crc="4094497185" mt="1446001495663" redirect="true"/>
+  <file name="web-design.html" crc="4169821180" mt="1445777974924" redirect="true"/>
+  <file name="programming.html" crc="4050909140" mt="1445777974926" redirect="true"/>
+  <file name="c.v.html" crc="4057935270" mt="1445777974931" redirect="true"/>
+  <file name="university.html" crc="4122937858" mt="1446001151924" redirect="true"/>
+  <file name="master.html" crc="189094451" mt="1446001153642" redirect="true"/>
+  <file name="sms.html" crc="247407821" mt="1446001165359" redirect="true"/>
+  <file name="contact.html" crc="38113969" mt="1445777974932" redirect="true"/>
+</manifest>
